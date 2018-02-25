@@ -16,9 +16,9 @@ In the Spring 2018 semester, the UASB team will be working on finalizing designs
 Note: These links are to the AguaClara Google Drive.
 
 ### Fall 2017
-Note: The UASB team began implementing GitHub in Fall 2017.  All documentation was created in Jupyter Notebook files that can be found in the [UASB Repository](../Jupyter Notebook files/)
-[Final Presentation](https://docs.google.com/presentation/d/1KZmYP9XVSUOhs98bqvKMGW_nZqrVYTuXpGL7I4fOmsI/edit)
-[Symposium Presentation](https://docs.google.com/presentation/d/1cugtreWLg9tZ4nvGGg40tyzCT5zpDVT6flLUzwsKhnk/edit)
+Note: The UASB team began implementing GitHub in Fall 2017.  All documentation was created in Jupyter Notebook files that can be found in the UASB repository under "[Jupyter Notebook files](https://github.com/AguaClara/UASB/tree/master/Jupyter%20Notebook%20Files)"  
+[Final Presentation](https://docs.google.com/presentation/d/1KZmYP9XVSUOhs98bqvKMGW_nZqrVYTuXpGL7I4fOmsI/edit?usp=sharing)  
+[Symposium Presentation](https://docs.google.com/presentation/d/1cugtreWLg9tZ4nvGGg40tyzCT5zpDVT6flLUzwsKhnk/edit?usp=sharing)
 
 ### Spring 2017
 
