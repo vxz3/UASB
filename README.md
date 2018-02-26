@@ -24,11 +24,15 @@ Note: The UASB team began implementing GitHub in Fall 2017.  All documentation w
 ### Summer 2017
 [Final Report](https://www.overleaf.com/10538618srwxhczmkjrn#/39354519/)  
 [Final Presentation](https://docs.google.com/presentation/d/1q5zjDjcBNdQbs-1ZhqkhRR-ZY-DPyS5M3Yj0elfVhy0/edit?usp=sharing)  
-[Lab-Scale UASB Operational Manual](https://docs.google.com/document/d/1BiAlQbLg72oqH0TA2eO5T6hESoWUtW1LBJ7iAU0mvYs/edit?usp=sharing)
+[Lab-Scale UASB Operational Manual](https://docs.google.com/document/d/1BiAlQbLg72oqH0TA2eO5T6hESoWUtW1LBJ7iAU0mvYs/edit?usp=sharing)  
 
 ### Spring 2017
-
+[EPA P3 Phase I Proposal](https://docs.google.com/document/d/10fAnyO1v9mVHoLR-k0ZsC3TrqKEAX1V-_v0JlZxsHUo/edit?usp=sharing)  
+[Final Report](https://www.overleaf.com/8107719xzjdzswjvtyj#/28623295/)  
+[Final Presensation](https://docs.google.com/presentation/d/1nshfEEmPvtXqX6NNc9D7ShpQa2j5wI--_A269iU9WEk/edit?usp=sharing)  
+[Symposium Presentation](https://docs.google.com/presentation/d/1nshfEEmPvtXqX6NNc9D7ShpQa2j5wI--_A269iU9WEk/edit?usp=sharing)  
 
 ### Fall 2016
-
+[Final Report](https://www.overleaf.com/6300842hvdfxh#/21165144/)  
+[Final Presentation](https://docs.google.com/presentation/d/1wqg8-yyRh3T7a-9KkUeP5jHQsnsevHWEWXlFb9M0QcM/edit?usp=sharing)  
 
