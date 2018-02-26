@@ -1,5 +1,8 @@
 # UASB
 
+## Research Advisor: 
+Zoe Maisel (zam7)  
+
 ## Team Members:
 Zac Chen (zc76)    
   
