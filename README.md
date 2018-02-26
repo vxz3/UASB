@@ -36,3 +36,7 @@ Note: The UASB team began implementing GitHub in Fall 2017.  All documentation w
 [Final Report](https://www.overleaf.com/6300842hvdfxh#/21165144/)  
 [Final Presentation](https://docs.google.com/presentation/d/1wqg8-yyRh3T7a-9KkUeP5jHQsnsevHWEWXlFb9M0QcM/edit?usp=sharing)  
 
+### Summer 2016
+[Final Report](https://drive.google.com/open?id=0B9W8_ccC7-V-S2JfUEFla2pVWi1OakthdFM3dVg5ME1GZFhr)  
+[Final Presentation](https://drive.google.com/open?id=0B98kaTgmVDQ_VDExZXZGWVhwdWc)  
+
