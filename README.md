@@ -4,7 +4,7 @@
 Zoe Maisel (zam7)  
 
 ## Team Members:
-Zac Chen (zc76)    
+Zac Chen (zc76) - Subteam Lead   
   
 Ian Cullings (idc25)   
   
